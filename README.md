@@ -1,4 +1,4 @@
 # Lotto
-A C# (CSharp) Console App project. A Lotto simulator using random numbers.
+A C# (CSharp) Console App exercise-project, done during my classes for IT Specialist in Application Development by Lutz & Grub Academy. A Lotto simulator using random numbers.
 
-Open "Lotto.sln" to see the code. To run the Console App program directly, launch "Lotto.exe" located in "bin/Debug/net7.0". 
+*To run the Console App program directly, launch "Lotto.exe" located in "bin/Debug/net7.0".*
