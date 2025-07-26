@@ -90,6 +90,8 @@
             int ergebnisFinal = ergebnis1 + ergebnis2 + ergebnis3 + ergebnis4 + ergebnis5 + ergebnis6;
 
             Console.WriteLine($"YOU HAVE MANAGED TO GIVE {ergebnisFinal} NUMBERS CORRECT. GRATS! XD");
+
+            Console.ReadKey(); 
         }
     }
 }
